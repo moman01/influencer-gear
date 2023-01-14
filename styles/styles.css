@@ -67,12 +67,12 @@ header {
   border-radius: 41px;
 }
 hr {
-  background: linear-gradient(
+  /* background: linear-gradient(
     90deg,
     rgba(192, 204, 218, 0.1) 0%,
     rgba(192, 204, 218, 0.6) 50.38%,
     rgba(192, 204, 218, 0.1) 100%
-  );
+  ); */
   /* border: 2px solid black; */
   width: 1110px;
   height: 1px;
@@ -123,4 +123,11 @@ hr {
 }
 .featured-content{
   width: 440px;
+}
+/* Footer */
+
+footer{
+  width: 1440px;
+height: 239px;
+background: #cccae4;
 }
